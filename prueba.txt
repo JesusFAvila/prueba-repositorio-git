@@ -254,4 +254,16 @@ To https://github.com/JesusFAvila/prueba-repositorio-git
 branch 'main' set up to track 'origin/main'.
 
 jesus@DESKTOP-L0K8265 MINGW64 ~/prueba-repositorio-git (main)
-$
+$ git push  -u origin main --force
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (11/11), 2.59 KiB | 883.00 KiB/s, done.
+Total 11 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), done.
+To https://github.com/JesusFAvila/prueba-repositorio-git
+ + 85e4d64...2a26e57 main -> main (forced update)
+branch 'main' set up to track 'origin/main'.
+
+
